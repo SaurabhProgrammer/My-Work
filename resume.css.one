@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        img {
+            border: 10px solid #ddd;
+            border-radius: 4px;
+            padding: 10px;
+            width: 150px;
+        }
+
+        .1_row_col_2 {
+            padding: left 180px;
+        }
+
+    </style>
+</head>
+
+<body>
+    <table>
+        <tr>
+            <td>
+                <h1>SAURABH PIMPALKAR</h1>
+                <p style="color: gold;"> Caption under his name</p>
+            </td>
+            <td class="1_row_col_2"><img src="Avtar.jpg" alt="avtar"></td>
+            <td>
+                <p><b>Phone</b> :9595457909</p>
+                <p><b>Email</b>:<span style="color:orange ;">Spimpalkar60@gmail.com</span></p>
+                <p><b>Website</b>:<span style="color:orange ;">www.Pimpalkarbuilders.com</span></p>
+                <p><b>Address</b>:<span style="color:orange ;">Gopal nagar, Amravati.</span></p>
+            </td>
+        </tr>
+    </table>
+    <hr style="background-color:gold;">
+    <table>
+        <tr>
+            <td>
+                <h2>PERSONAL INFORMATION</h2>
+            </td>
+            <td></td>
+            <td>
+                <p><B>Full Name</B> : SAURABH SUDHAKARRAO PIMPALKAR</p>
+                <p><b>Nationality</b>:Indian</p>
+                <p><b> Date of birth</b> : 21/04/92</p><b>Marital Status</b>: Married<p></p>
+            </td>
+        </tr>
+        <tr></tr>
+    </table>
+    <hr style="background-color:gold;">
+    <table>
+        <tr>
+            <td rowspan="2">
+                <h2>EDUCATION AND TRAINING</h2>
+            </td>
+            <td style="width: 605px;">
+                <div style="position: relative;">
+                    <h3>Sant Gadge Baba Amravati University, Amravati</h3>
+                    <p>Panjabrao Deshmukh Law college</p>
+                    <span style="color:orange; position: absolute; right: 0px;top:-14px"><b>
+                        <h3>2022 Present</h3>
+                    </b></span>
+                </div>
+                <hr style="background-color:gold;">
+                <div style="position: relative;">
+                    <h3>Sant Gadge Baba Amravati University, Amravati</h3>
+                    <p>Panjabrao Deshmukh Law college</p>
+                    <span style="color:orange; position: absolute; right: 0px;top:-14px"><b>
+                        <h3>2022 Present</h3>
+                    </b></span>
+                </div>
+            </td>
+              
+        </tr>
+        
+       
+
+    </table>
+    <hr style="background-color:gold;">
+
+</body>
+
+</html>
